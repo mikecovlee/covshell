@@ -1,0 +1,13 @@
+shell.dir=目录
+shell.file=文件
+shell.syntax_fault=命令语法不正确。
+shell.too_many_parameters=参数过多。
+shell.unknow_command=未知命令。
+shell.unknow_parameters=未知命令参数。
+shell.unknow_direct=系统找不到指定路径。
+shell.echo.echo_on=ECHO处在打开状态。
+shell.echo.echo_off=ECHO处在关闭状态。
+shell.plug.now=您已安装的插件
+shell.lang.now=您目前的语言为简体中文。
+shell.lang.unknow=您选择了不受支持的语言。
+shell.lang.support=受支持的语言

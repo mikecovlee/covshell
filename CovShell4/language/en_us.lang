@@ -1,0 +1,13 @@
+shell.file=file
+shell.dir=directory
+shell.syntax_fault=Command syntax is not correct.
+shell.too_many_parameters=Too many parameters.
+shell.unknow_command=Unknown command.
+shell.unknow_parameters=Unknown command parameters.
+shell.unknow_direct=The system could not find the specified path.
+shell.echo.echo_on=The ECHO has been open.
+shell.echo.echo_off=The ECHO has been close.
+shell.plug.now=Your installed plug-ins
+shell.lang.now=Your current language is English.
+shell.lang.unknow=You select the language is not supported.
+shell.lang.support=The supported languages
